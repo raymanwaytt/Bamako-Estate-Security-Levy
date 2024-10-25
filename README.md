@@ -28,4 +28,5 @@ Top Collection: Street Bamako leads in compliance, with a total collection of â‚
 
 ### Viewing the Report
 Open EstateSecurity Levy 2024.pbix with Power BI Desktop for an interactive experience.
+
 Alternatively, view the static visuals in Estate Security Levy 2024.pdf.
