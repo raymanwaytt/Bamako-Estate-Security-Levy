@@ -9,13 +9,21 @@ Content: It includes the street names, expected income for 2024, total income co
 
 ### Key Insights
 Current Collection: ₦2.9 million has been collected out of an expected ₦10 million for the year 2024.
+
 Top Debtor: Street Aanuoluwapo has the highest outstanding debt, owing ₦2.3 million out of ₦2.8 million.
+
 Top Collection: Street Bamako leads in compliance, with a total collection of ₦759,000.
-Files
+
+### Files
+
 Bamako.xlsx: The Excel file containing the dataset.
-Sheet1: Raw data and a transposed table using the TRANSPOSE() function.
-Sheet2: Cleaned table prepared for analysis.
+
+  Sheet1: Raw data and a transposed table using the TRANSPOSE() function.
+
+  Sheet2: Cleaned table prepared for analysis.
+
 Estate Security Levy 2024.pdf: PDF containing static visuals of the report.
+
 EstateSecurity Levy 2024.pbix: Power BI file with the interactive report.
 
 ### Viewing the Report
