@@ -4,15 +4,19 @@
 This analysis explores security levy payments across the Bamako Estate, providing insights into the payment compliance and collections for each street from January 2024 to October 2024.
 
 ### Data
-Source: The dataset used for this analysis is available in Bamako.xlsx.
-Content: It includes the street names, expected income for 2024, total income collected to date, and compliance percentages for each street.
+##### Source: The dataset used for this analysis is available in Bamako.xlsx.
+
+##### Content: It includes the street names, expected income for 2024, total income collected to date, and compliance percentages for each street.
 
 ### Key Insights
+
 Current Collection: ₦2.9 million has been collected out of an expected ₦10 million for the year 2024.
 
 Top Debtor: Street Aanuoluwapo has the highest outstanding debt, owing ₦2.3 million out of ₦2.8 million.
 
-Top Collection: Street Bamako leads in compliance, with a total collection of ₦759,000.
+Top Compliance: Street Shoyemi has the highest compliance rate at 52%, with a collection of ₦344,000.
+
+Top Collection: Street Bamako has the highest total collection, with ₦759,000 raised so far.
 
 ### Files
 
