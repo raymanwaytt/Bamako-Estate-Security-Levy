@@ -16,15 +16,15 @@ Top Collection: Street Bamako leads in compliance, with a total collection of â‚
 
 ### Files
 
-Bamako.xlsx: The Excel file containing the dataset.
+#### Bamako.xlsx: The Excel file containing the dataset.
 
   Sheet1: Raw data and a transposed table using the TRANSPOSE() function.
 
   Sheet2: Cleaned table prepared for analysis.
 
-Estate Security Levy 2024.pdf: PDF containing static visuals of the report.
+#### Estate Security Levy 2024.pdf: PDF containing static visuals of the report.
 
-EstateSecurity Levy 2024.pbix: Power BI file with the interactive report.
+#### EstateSecurity Levy 2024.pbix: Power BI file with the interactive report.
 
 ### Viewing the Report
 Open EstateSecurity Levy 2024.pbix with Power BI Desktop for an interactive experience.
